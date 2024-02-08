@@ -1,0 +1,4 @@
+steps to follow for hadoop installation
+1.install java epel packages 
+2.wget hadoop 3.3.0
+3.unzip the tar file
